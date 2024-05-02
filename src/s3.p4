@@ -3,7 +3,7 @@
 #include <v1model.p4>
 const bit<16> TYPE_IPV4 = 0x800;
 const bit<16> TYPE_PACKET_NUMBER = 0x1212;
-const bit<19> ECN_THRESHOLD = 0;
+const bit<19> ECN_THRESHOLD = 10;
 
 const bit<8> RECIRC_FL = 0;
 
