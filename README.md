@@ -24,6 +24,10 @@
     - Script for the server
   - **Recv.py**: 
     - Script for the receiver
+## References
+- Revirculating: Sandmair, F., Stubbe, H., & Hauser, E. (Year). Out of the Loop. Chair of Network Architectures and Services, Department of Informatics, Technical University of Munich, Germany.
+- Cloning tutorial: [Link](https://carolinafernandez.github.io/development/2019/08/06/Recurrent-processing-in-P4)
+- P4 Tutorials Repository: [Link](https://github.com/p4lang/tutorials)
 
 
 
